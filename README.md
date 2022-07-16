@@ -12,6 +12,7 @@ Figure 4: Trips by gender. The heatmap displays the same information as Figure 3
 ![image](https://user-images.githubusercontent.com/67160240/179370656-29fcfadd-2b79-407c-842f-b7c37481735b.png)
 Figure 5: User trip by gender by weekday. This graph breaks down user trips by day of the week, user type, and gender. More bikes are utilized by subscribers and males.
 ![image](https://user-images.githubusercontent.com/67160240/179370763-b07249c9-247e-46c5-80fc-41b6b8ef9f5d.png)
+
 Figure 6: Gender breakdwon. This pie graph provides a breakdwon by gender. Male riders outnumber female riders by a ratio of almost 3:1.
 ![image](https://user-images.githubusercontent.com/67160240/179370894-c6dd16b9-8c3a-4223-bf53-54a09d54b9b9.png)
 Figure 7:  Customer types. A brekadown of user types: customer vs. subscriber. Subcribers outnumber customers by a ratio of 4:1.
